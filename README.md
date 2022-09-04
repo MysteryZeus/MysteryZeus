@@ -1,7 +1,7 @@
 Hi, I’m @MysteryZeus
 
-I’m interested in software development (mostly backend).
+a CompSci bachelor graduate from germany.
 
-I'm a bachelor CompSci graduate from germany.
+I’m interested in software development (mostly backend), web security and scalability of projects.
 
 My website and resume [https://resume-mysteryzeus.vercel.app/](https://resume-mysteryzeus.vercel.app/).
