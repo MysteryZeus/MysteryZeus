@@ -4,4 +4,4 @@ I’m interested in software development (mostly backend).
 
 I'm a bachelor CompSci graduate from germany.
 
-[resume](https://resume-mysteryzeus.vercel.app/)
+My website and resume [https://resume-mysteryzeus.vercel.app/](https://resume-mysteryzeus.vercel.app/).
